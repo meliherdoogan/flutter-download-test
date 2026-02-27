@@ -1,0 +1,10 @@
+{
+  "S1": {
+    "latestVersion": "1.2",
+    "mandatoryVersion": "2.0"
+  },
+  "S2": {
+    "latestVersion": "3.5",
+    "mandatoryVersion": "3.0"
+  }
+}
