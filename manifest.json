@@ -1,7 +1,7 @@
 {
   "S1": {
-    "latestVersion": "1.2",
-    "mandatoryVersion": "2.0"
+    "latestVersion": "1.01",
+    "mandatoryVersion": "1.00"
   },
   "S2": {
     "latestVersion": "3.5",
